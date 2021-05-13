@@ -13,6 +13,7 @@ fruits();
 //apple
 //Error, console.log(fruits2) and console.log(fruits3) are outside the 
 
+
 //Usando let:
 let x = 1;
 {
@@ -22,6 +23,7 @@ let x = 1;
 console.log(x);
 //2
 //1
+
 
 //Usando var:
 var x = 1;
